@@ -1,6 +1,6 @@
 const textConfig = {
   landing: {
-    title: "Hey Love! 💕",
+    title: "Hey Payuuuu! 💕",
     subtitle: "I Wanted to do something special for you, so I made something special just for you...",
     lastLine: "Click below to see what it is! ✨",
     button: "Open My Heart 💖",
@@ -11,12 +11,12 @@ const textConfig = {
   letter: {
     headerTitle: "A Love Letter 💌",
     headerSubtitle: "From my heart to yours",
-    letterHeaderTitle: "My Sweetest Love",
-    letterMessage: `My dearest love,
+    letterHeaderTitle: "My Sweetest Payuuuu",
+    letterMessage: `My dearest Payuuuu,
 
 Every moment with you feels like a beautiful dream that I never want to wake up from.
 
-I want you to know that you are the most precious person in my life. Every day with you is a gift, and I'm grateful for every second we share together. You make me want to be the best version of myself.
+I can't believe it's been 4 years since we started this journey. Today, on 29-04-2026, we officially complete 4 amazing years together! Every day with you is a gift, and I'm grateful for every second we share. You make me want to be the best version of myself.
 `,
     letterSignature: "With all my love, Always yours 💕`",
     envelopeClickHint: "Click to open the envelope",
@@ -70,8 +70,9 @@ I want you to know that you are the most precious person in my life. Every day w
     sendKissButton: "Send a Virtual Kiss 💋",
     dateLocale: "en-US",
     // Letter content
-    letterGreeting: "My sweetest darling,",
+    letterGreeting: "My sweetest Payuuuu,",
     letterParagraphs: [
+      "Happy 4th Anniversary, my love! (29-04-2026) 🎉",
       "You're the calm I reach for and the laugh that brightens my day.",
       "I hope this tiny world made you smile — and whispered how much you mean to me.",
       "I'll keep making memories, big and small, always with you.",
