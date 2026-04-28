@@ -72,7 +72,7 @@ I can't believe it's been 4 years since we started this journey. Today, on 29-04
     // Letter content
     letterGreeting: "My sweetest Payuuuu,",
     letterParagraphs: [
-      "Happy 4th Anniversary, my love! (29-04-2026) 🎉",
+      "Happy 4th Anniversary, my love! 🎉",
       "You're the calm I reach for and the laugh that brightens my day.",
       "I hope this tiny world made you smile — and whispered how much you mean to me.",
       "I'll keep making memories, big and small, always with you.",
